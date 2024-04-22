@@ -33,9 +33,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
 # theme: jekyll-theme-minimal
-# theme: beautiful-jekyll-theme
+theme: beautiful-jekyll-theme
 
 minima:
     skin: dark
